@@ -1,5 +1,5 @@
 print("hi there")
 print("welcome")
 print(:master branch)
-primt("jashkajs")
+primt("junk")
 print(prasanna branch)
